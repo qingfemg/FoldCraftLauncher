@@ -1,5 +1,5 @@
-# FoldCraftLauncher
- Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
+#FoldCraftLauncher
+折叠工艺启动程序，一个Android Minecraft:Java版启动程序。
 
-## Notice
- This launcher is still in development.
+##注意
+这个发射器还在研制中。
